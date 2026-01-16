@@ -9,12 +9,13 @@ This repository demonstrates how to build a clean, executive-friendly scatter pl
 
 ## Why this matters
 Poorly configured charts distort analysis.
-This example shows how small configuration choices
-can dramatically improve clarity and trust.
+This example shows how small configuration choices can dramatically improve clarity and trust.
 
 ## Example output
 <img src="assets/example_output.png" width="700"/>
 
 ## How to run
+``` python
 pip install -r requirements.txt
 python src/scatter_plot.py
+```
