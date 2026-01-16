@@ -19,3 +19,6 @@ This example shows how small configuration choices can dramatically improve clar
 pip install -r requirements.txt
 python src/scatter_plot.py
 ```
+
+▶️ Run this notebook on Google Colab:
+[Open in Colab](https://colab.research.google.com/drive/18Yc6NjoWOHIVSh2eiR-_n2POv0voUt-t?usp=sharing)
